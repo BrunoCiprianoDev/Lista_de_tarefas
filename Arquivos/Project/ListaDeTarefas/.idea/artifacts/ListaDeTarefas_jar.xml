@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ListaDeTarefas:jar">
+    <output-path>$PROJECT_DIR$/../../../../ListaDeTarefasJar</output-path>
+    <root id="archive" name="ListaDeTarefas.jar">
+      <element id="module-output" name="ListaDeTarefas" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

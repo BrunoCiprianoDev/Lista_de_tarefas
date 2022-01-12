@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/src/build/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/lib/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
