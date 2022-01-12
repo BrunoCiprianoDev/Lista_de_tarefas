@@ -1,5 +1,5 @@
 -> Descrição:
-	O projeto "Lista de Tarefas" é um aplicativo de produtividade que permite a organização de tarefas definadas por titulo 
+	O projeto "Lista de Tarefas" é um aplicativo de produtividade que permite a organização de tarefas definidas por titulo 
 e data a partir de uma interface simples e intuitiva;
 
 -> Objetivos:
