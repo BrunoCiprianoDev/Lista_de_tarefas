@@ -3,7 +3,7 @@
 e data a partir de uma interface simples e intuitiva;
 
 -> Objetivos:
-	Além do objetivo de criar uma aplicação útil capaz de facilitar a organização das minha tarefas diarias como estudante
+	Além do objetivo de criar uma aplicação útil capaz de facilitar a organização das minhas tarefas diarias como estudante
 de Sistemas de Informaçao, o projeto em questão também tem foco a pragmatização dos meus conhecimentos em Java e sua integração com 
 o sistema de gerenciamento de banco de dados MYSQL através da JDBC(Java Database Connectivity).
 
